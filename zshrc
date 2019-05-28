@@ -1,7 +1,7 @@
 export ZSH="/home/ethan/.oh-my-zsh"
 
-#ZSH_THEME="simple"
-ZSH_THEME="agnoster"
+ZSH_THEME="simple"
+#ZSH_THEME="agnoster"
 
 source $ZSH/oh-my-zsh.sh
 
