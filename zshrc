@@ -5,7 +5,7 @@ ZSH_THEME="simple"
 
 source $ZSH/oh-my-zsh.sh
 
-alias vi=vim
+alias v=vim
 
 export PATH=$PATH:~/bin
 
