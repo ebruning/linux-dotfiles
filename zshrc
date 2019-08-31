@@ -10,5 +10,5 @@ alias v=vim
 export PATH=$PATH:~/bin
 
 function rdp () {
-	xfreerdp /u:ethan /p:M0rgan02 /v:${1} /size:2048x1152 /cert-ignore &
+	xfreerdp /u:ethan /p: /v:${1} /size:2048x1152 /cert-ignore &
 }
